@@ -17,7 +17,7 @@ const CartClient = () => {
     addToBasketDecrease,
   } = UseCart();
 
-  console.log(cartPrdcts, "cartPrdcts");
+  // console.log(cartPrdcts, "cartPrdcts");
   if (!cartPrdcts || cartPrdcts.length == 0) {
     return <div> sepetinizde ürün bulunmamaktadır...</div>;
   }

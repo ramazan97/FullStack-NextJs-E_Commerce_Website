@@ -5,12 +5,13 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyByCbWQHBQEurPU2QosfQzn3j1UpPrJDNk",
+  authDomain: "burada-75757.firebaseapp.com",
+  projectId: "burada-75757",
+  storageBucket: "burada-75757.appspot.com",
+  messagingSenderId: "445322290106",
+  appId: "1:445322290106:web:0a6332efe00525e983b383",
+  measurementId: "G-GLNZ5EYZ5N"
 };
 
 // Initialize Firebase

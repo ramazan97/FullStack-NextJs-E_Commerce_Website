@@ -44,7 +44,7 @@ const DetailClient = ({ product }: { product: any }) => {
     }
   }, [cartPrdcts]);
 
-  console.log(cartPrdcts, "cartPrdcts");
+  // console.log(cartPrdcts, "cartPrdcts");
 
   const increaseFunc = () => {
     if (cardProduct.quantity == 10) return;
